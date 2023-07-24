@@ -11,13 +11,13 @@
 - pytorch 1.12.0.dev20220504+cu116 (required for building the rotation libs, see utils/how to build rotated_nms.txt)
 
 ## dataset
-Data available at the baidu cloud:https://pan.baidu.com/s/1jxAbkKYKtGg-WKcceR9w0Q
-download code(提取码)：**swcf** 
+Data available at the baidu cloud:https://pan.baidu.com/s/1D5CwZIFSgxaSmlSUvZW0rQ
+download code(提取码)：**zti0** 
 
 
 ## demo
 ``` bash
-(1)download checkpoint file from https://pan.baidu.com/s/1BWq8TP6y7ppqlHh4tqgFhQ      (download code: zm38)
+(1)download checkpoint file from https://pan.baidu.com/s/1AbfS3kQ5tD2IkY1eloy50g      (download code: hlii)
 (2)put the whole checkpoints dirctor to the root: A2B-Net
 (3)open a cmd
 (4)cd A2B-Net
@@ -25,7 +25,7 @@ download code(提取码)：**swcf**
 ```
 ## training
 ``` bash
-(1)download dataset from https://pan.baidu.com/s/1jxAbkKYKtGg-WKcceR9w0Q      (download code: swcf)
+(1)download dataset from https://pan.baidu.com/s/1D5CwZIFSgxaSmlSUvZW0rQ      (download code: zti0)
 (2)put the dataset to your directory. 
 (3)change the training dataset path: cfg.DATA_ROOT (in the file det_cfg.py) to your dataset path 
 (4)change the training dataset path: cfg.UNLABEL_DATA_ROOT to your path
