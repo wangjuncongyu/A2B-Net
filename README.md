@@ -12,7 +12,7 @@
 
 ## dataset
 Data available at the baidu cloud:https://pan.baidu.com/s/1D5CwZIFSgxaSmlSUvZW0rQ
-download code(提取码)：**coming soon** 
+download code(提取码)：**zti0** 
 
 
 ## demo
@@ -25,7 +25,7 @@ download code(提取码)：**coming soon**
 ```
 ## training
 ``` bash
-(1)download dataset from https://pan.baidu.com/s/1D5CwZIFSgxaSmlSUvZW0rQ      (download code: coming soon)
+(1)download dataset from https://pan.baidu.com/s/1D5CwZIFSgxaSmlSUvZW0rQ      (download code: zti0)
 (2)put the dataset to your directory. 
 (3)change the training dataset path: cfg.DATA_ROOT (in the file det_cfg.py) to your dataset path 
 (4)change the training dataset path: cfg.UNLABEL_DATA_ROOT to your path
