@@ -1,0 +1,4 @@
+required: pytorch, cuda, c++builder
+
+1. python setup.py build
+2. copy and rename: build/lib_xxx/rotated_nms_xxx.pyd -> utils/rotated_nms.pyd
